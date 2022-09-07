@@ -1,4 +1,4 @@
-# Name of Streamlit App
+# Repo and lab from Data Professor
 
 Description of the app ...
 
